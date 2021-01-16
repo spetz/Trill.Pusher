@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Trill.Pusher": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5010;https://localhost:5011",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "development"
+      }
+    }
+  }
+}
